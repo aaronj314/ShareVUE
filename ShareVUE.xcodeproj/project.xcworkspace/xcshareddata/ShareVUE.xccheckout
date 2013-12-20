@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DB16EF0A-B09C-4865-B993-BF3E280A6D9D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ShareVUE</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>286B05AB-6AF0-4356-83B1-AD3E68531D9E</key>
+		<string>https://sorensonmedia.svn.beanstalkapp.com/technicolor-dailies/trunk/iosv2/ShareVUE</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ShareVUE.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>286B05AB-6AF0-4356-83B1-AD3E68531D9E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>286B05AB-6AF0-4356-83B1-AD3E68531D9E</key>
+		<string>https://sorensonmedia.svn.beanstalkapp.com/technicolor-dailies</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://sorensonmedia.svn.beanstalkapp.com/technicolor-dailies/trunk/iosv2/ShareVUE/ShareVUE.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>286B05AB-6AF0-4356-83B1-AD3E68531D9E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>286B05AB-6AF0-4356-83B1-AD3E68531D9E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ShareVUE</string>
+		</dict>
+	</array>
+</dict>
+</plist>
